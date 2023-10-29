@@ -76,11 +76,3 @@ Access the decentralized voting application by navigating to [http://localhost:3
 
 If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Please replace the placeholders such as `your-username`, `your-repo`, `your-private-key`, and `your-contract-address` with your actual values. You can also create separate Markdown files for your `CONTRIBUTING.md` and `LICENSE.md` if needed and link to them in your documentation.
-
-You can create a new repository on GitHub and add this Markdown file to the repository, and GitHub will render it nicely as documentation on your project's page.
